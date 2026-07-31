@@ -1,2 +1,2 @@
 # Striver_DSA_Solutions
-DSA woth c++ on Striver Sheet
+DSA with c++ on Striver Sheet
