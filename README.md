@@ -1,2 +1,4 @@
 # Striver_DSA_Solutions
-DSA with c++ on Striver Sheet
+DSA Solved Questions Given In Striver Sheet 
+in C++ Language.
+Saved for future purposes.
